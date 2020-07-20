@@ -1,5 +1,8 @@
 # PyCon TW 2020 場務組大會期間庶務志工見面會
 
+[![hackmd-github-sync-badge](https://hackmd.io/OcJWAqDnRhOLO5dIjap_Rg/badge)](https://hackmd.io/OcJWAqDnRhOLO5dIjap_Rg)
+
+
 ## 一般須知
 
 ### 招募組例行要灌輸新進志工的知識
